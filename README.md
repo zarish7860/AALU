@@ -55,7 +55,7 @@ The purpose of this subsection was to provide an interface for Blender (the soft
 5. [Muhammad Romman]()
 6. [Amina Zeb]()
 7. [Ammara Naseer]()
-8. [Zarrish Nadeem]()
+8. [Zarrish Nadeem](https://github.com/zarish7860)
 9. [Durraiz Waseem]()
 10. [Taha Khan]()
 
